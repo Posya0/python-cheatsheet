@@ -22,7 +22,7 @@
 // run this script before every commit. It should be named 'pre-commit' and it
 // should contain the following line: `./parse.js`.
 
-
+//Новый комментарий 1
 const fs = require('fs');
 const jsdom = require('jsdom');
 const showdown  = require('showdown');
